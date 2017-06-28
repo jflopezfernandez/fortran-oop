@@ -5,7 +5,7 @@
 # Compiler Information
 
 CC        := gFortran
-CFLAGS    := -Og -ggdb -std=f2003 -Wall -Wextra -pedantic-errors -Winteger-division -Werror -fcheck=all
+CFLAGS    := -Og -ggdb -std=f2008 -Wall -Wextra -pedantic-errors -Winteger-division -Werror -fcheck=all
 
 	# Compiler Flags
 	# 		DBCFLAGS --> Debug-build compiler flags
